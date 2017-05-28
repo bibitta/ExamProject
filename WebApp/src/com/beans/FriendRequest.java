@@ -13,7 +13,7 @@ import javax.persistence.Table;
 @Table(name = "request")
 public class FriendRequest implements Serializable {
 	/**
-	 * 
+	 * test
 	 */
 	private static final long serialVersionUID = -6564272409747642184L;
 	@Id
